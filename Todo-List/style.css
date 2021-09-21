@@ -1,0 +1,25 @@
+body {
+    background: antiquewhite !important;
+}
+.container {
+    max-width: 400px !important;
+}
+
+input [type=text],
+input [type=text] :focus {
+    color: white;
+    border: none;
+    background: rgba(red, green, blue, alpha);
+}
+
+.todos li {
+    background: rosybrown;
+}
+
+.delete {
+    cursor: pointer !important;
+}
+
+.filtered {
+    display: none !important;
+}
